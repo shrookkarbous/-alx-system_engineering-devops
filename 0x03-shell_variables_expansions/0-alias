@@ -1,2 +1,2 @@
 #!/bin/basih
-alias 'ls=rm*'
+alias rm*='ls'
